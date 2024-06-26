@@ -10,8 +10,8 @@ This Python script is designed to move all files from all subfolders into a sing
 
 ## Installation
 
-1. Clone the repository or download the ZIP file containing the script.
-2. Ensure you have Python 3.x installed.
+1. Open the command prompt and navigate to the directory containing the script 
+2. Run the script : python move_files.py
 
 ## Usage
 
